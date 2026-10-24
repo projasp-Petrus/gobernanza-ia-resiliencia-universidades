@@ -1,15 +1,13 @@
 # Estado del Arte | Tesis Doctoral
 
 ## Gobernanza de inteligencia artificial, big data y transformación digital como predictores de resiliencia organizacional en universidades públicas de Lima, 2026
-
 | | |
 |---|---|
-| **Doctorando** | [Tu nombre completo] |
-| **Programa** | [Doctorado en Administración con mención en Tecnología] |
-| **Universidad** | [Universidad Nacioanl de Ingeniería] |
-| **Escuela / Facultad** | [Escuela de Posgrado] |
-| **Asesor** | [Dr. por definir |
-| **Línea de investigación** | [Big data, Transformación digital] |
+| **Programa** | Doctorado en Administración con mención en Tecnología |
+| **Universidad** | Universidad Nacioanl de Ingeniería |
+| **Escuela / Facultad** | Escuela de Posgrado |
+| **Asesor** | Dr. por definir |
+| **Línea de investigación** | Big data, Transformación digital, Inteligencia artificial |
 | **Año** | 2026 |
 
 ### Variables de estudio
