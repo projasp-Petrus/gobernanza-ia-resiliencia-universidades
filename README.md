@@ -20,3 +20,5 @@
 | Dependiente | Resiliencia organizacional |
 
 > **Propósito del repositorio:** reunir y organizar los antecedentes nacionales e internacionales que fundamentan esta investigación doctoral.
+>
+> **Estructura del repositorio**
