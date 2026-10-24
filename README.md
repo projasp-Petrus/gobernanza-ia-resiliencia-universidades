@@ -5,11 +5,11 @@
 | | |
 |---|---|
 | **Doctorando** | [Tu nombre completo] |
-| **Programa** | [Doctorado en ...] |
-| **Universidad** | [Nombre de la universidad] |
-| **Escuela / Facultad** | [Escuela de Posgrado ...] |
-| **Asesor** | [Dr. ...] |
-| **Línea de investigación** | [Línea de investigación de tu programa] |
+| **Programa** | [Doctorado en Administración con mención en Tecnología] |
+| **Universidad** | [Universidad Nacioanl de Ingeniería] |
+| **Escuela / Facultad** | [Escuela de Posgrado] |
+| **Asesor** | [Dr. por definir |
+| **Línea de investigación** | [Big data, Transformación digital] |
 | **Año** | 2026 |
 
 ### Variables de estudio
