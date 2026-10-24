@@ -2,97 +2,25 @@
 
 [← Volver a la portada](../README.md)
 
-> Estudios realizados en Perú, organizados según las variables de la investigación. Cada artículo tiene su ficha de análisis y su enlace al PDF.
+> Estudios realizados en Perú relacionados con las variables de la investigación.
 
-## Resumen por variable
-
-| Variable | Tipo | Artículos | Total |
-|:---|:---|:---|:---:|
-| [Gobernanza de inteligencia artificial](#v1-nacional) | Independiente | N01 | 1 |
-| [Big data](#v2-nacional) | Independiente | N02 | 1 |
-| [Transformación digital](#v3-nacional) | Independiente | N03 | 1 |
-| [Resiliencia organizacional](#v4-nacional) | Dependiente | N04 | 1 |
+| N.º | Autor (año) | Artículo | Variable | PDF |
+|:---:|:---|:---|:---|:---:|
+| N01 | Bernilla Rodriguez (2024) | Docentes ante la inteligencia artificial en una universidad pública del norte del Perú | Gobernanza de IA | [Abrir PDF](N01_Bernilla_2024.pdf) |
 
 ---
-
-<a id="v1-nacional"></a>
-## 🔹 V1 · Gobernanza de inteligencia artificial
 
 <a id="n01"></a>
-### N01 · Apellido (Año)
+## N01 · Bernilla Rodriguez (2024)
 
 | Campo | Detalle |
 |:---|:---|
-| **Título** | Pendiente |
-| **Referencia (APA 7)** | Pendiente |
-| **Revista / Indexación** | Pendiente |
-| **Objetivo** | Pendiente |
-| **Metodología** | Pendiente |
-| **Resultados** | Pendiente |
-| **Aporte a la tesis** | Pendiente |
-| **PDF** | [Abrir PDF](N01_Apellido_Año.pdf) |
-
-[↑ Volver al resumen](#resumen-por-variable)
-
----
-
-<a id="v2-nacional"></a>
-## 🔹 V2 · Big data
-
-<a id="n02"></a>
-### N02 · Apellido (Año)
-
-| Campo | Detalle |
-|:---|:---|
-| **Título** | Pendiente |
-| **Referencia (APA 7)** | Pendiente |
-| **Revista / Indexación** | Pendiente |
-| **Objetivo** | Pendiente |
-| **Metodología** | Pendiente |
-| **Resultados** | Pendiente |
-| **Aporte a la tesis** | Pendiente |
-| **PDF** | [Abrir PDF](N02_Apellido_Año.pdf) |
-
-[↑ Volver al resumen](#resumen-por-variable)
-
----
-
-<a id="v3-nacional"></a>
-## 🔹 V3 · Transformación digital
-
-<a id="n03"></a>
-### N03 · Apellido (Año)
-
-| Campo | Detalle |
-|:---|:---|
-| **Título** | Pendiente |
-| **Referencia (APA 7)** | Pendiente |
-| **Revista / Indexación** | Pendiente |
-| **Objetivo** | Pendiente |
-| **Metodología** | Pendiente |
-| **Resultados** | Pendiente |
-| **Aporte a la tesis** | Pendiente |
-| **PDF** | [Abrir PDF](N03_Apellido_Año.pdf) |
-
-[↑ Volver al resumen](#resumen-por-variable)
-
----
-
-<a id="v4-nacional"></a>
-## 🔸 V4 · Resiliencia organizacional (dependiente)
-
-<a id="n04"></a>
-### N04 · Apellido (Año)
-
-| Campo | Detalle |
-|:---|:---|
-| **Título** | Pendiente |
-| **Referencia (APA 7)** | Pendiente |
-| **Revista / Indexación** | Pendiente |
-| **Objetivo** | Pendiente |
-| **Metodología** | Pendiente |
-| **Resultados** | Pendiente |
-| **Aporte a la tesis** | Pendiente |
-| **PDF** | [Abrir PDF](N04_Apellido_Año.pdf) |
-
-[↑ Volver al resumen](#resumen-por-variable)
+| **Título** | Docentes ante la inteligencia artificial en una universidad pública del norte del Perú |
+| **Referencia (APA 7)** | Bernilla Rodriguez, E. B. (2024). Docentes ante la inteligencia artificial en una universidad pública del norte del Perú. *Educación, 33*(64), 8-28. https://doi.org/10.18800/educacion.202401.M001 |
+| **Revista** | Educación (PUCP) · Acceso abierto CC BY 4.0 |
+| **Variable** | Gobernanza de inteligencia artificial |
+| **Objetivo** | Analizar las percepciones, inquietudes, barreras y facilitadores de los docentes para integrar la IA en las actividades académicas |
+| **Metodología** | Cualitativa; estudio de caso; entrevistas y grupos focales con docentes |
+| **Resultados** | Los docentes valoran la IA para generar textos y organizar actividades, pero dudan de su precisión; proponen integrarla al currículo y capacitarse |
+| **Aporte a la tesis** | Evidencia la falta de lineamientos institucionales sobre IA en universidades públicas, lo que justifica la variable gobernanza de IA |
+| **PDF** | [Abrir PDF](N01_Bernilla_2024.pdf) |
